@@ -1,0 +1,25 @@
+
+
+RH OSP 13
+https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/13/
+
+RH OSP Virtualize your OpenStack control plane with Red Hat Virtualization and Red Hat OpenStack Platform 13
+https://redhatstackblog.redhat.com/2018/07/10/virtualize-your-openstack-control-plane-with-red-hat-virtualization-and-red-hat-openstack-platform-13/
+
+
+RH OSP containerized vs systemd comparison
+https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/13/html/transitioning_to_containerized_services/comparing-systemd-services-to-containerized-services
+
+Heat orchestrator using ansible
+https://www.openstack.org/summit/sydney-2017/summit-schedule/events/19652/heat-orchestration-using-ansible
+
+Heat introduction 2013
+https://github.com/hardys/presentations/blob/master/heat_solutions_linux_2013.pdf
+
+Triple-O
+
+ OpenStack Containerization with Podman – Part 1 (Undercloud)
+ http://my1.fr/blog/openstack-containerization-with-podman-part-1-undercloud/
+ OpenStack Containerization with Podman – Part 4 (Healthchecks)
+ http://my1.fr/blog/tag/podman/
+ 
