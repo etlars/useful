@@ -1,0 +1,1 @@
+ssh -o ProxyCommand='ssh -W %h:%p -p 443 ocid1.instanceconsoleconnection.oc1.ap-seoul-1.abuwgljrhmuaullbv55xktmsjk4dcprgku2efa2tk2homzyxfpydusodptuq@instance-console.ap-seoul-1.oraclecloud.com' ocid1.instance.oc1.ap-seoul-1.abuwgljryag5l2kz5tjodd2ud55gvqfre4jwxlwv7fux4dgdib7eqpmkduxq
